@@ -1,0 +1,5 @@
+#file to tell git what to ignore
+*.dat
+results/
+*.sh
+*.out
